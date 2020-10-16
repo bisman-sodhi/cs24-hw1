@@ -1,0 +1,36 @@
+/*
+    cout << "start of vector " << endl;
+    vector<int> seq;
+    seq.insert(seq.begin(), mystat.getNum());
+    cout << "added 11 in the begining " << seq[0] << endl;
+*/
+    //seq.push_back(mystat.getNum());
+    //cout << "added 14" << seq[0] << seq[1] << endl;
+
+/*
+    while (mystat.next_number(a) = true) {
+        seq.push_back(mystat.getNum());
+    }
+
+    //using a for loop
+    for (int i = 0; i < seq.size(); i++){
+        seq.push_back(mystat.getNum());
+        cout << seq[i] << endl;
+    }
+
+
+
+    cout << "print seq" << endl;
+
+        for (auto i = seq.begin(); i != seq.end(); ++i)
+        cout << *i << " ";
+*/
+
+
+/*
+void stat::vfunc(vector<int> &vect){
+    vect.push_back(stat.getNum());
+
+}
+*/
+//fuction for putting a in next num
